@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+  --primary: #2563eb;
+  --primary-light: #3b82f6;
+
+  --text-dark: #0f172a;
+  --text-gray: #64748b;
+
+  --bg-light: #f8fafc;
+  --card-bg: #ffffff;
+
+  --gradient: linear-gradient(
+    90deg,
+    #2563eb 0%,
+    #7c3aed 100%
+  );
+
+}
